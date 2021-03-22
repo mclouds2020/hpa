@@ -52,4 +52,4 @@ spec:
     name: php-apache
   minReplicas: 1
   maxReplicas: 5
-  targetCPUUtilizationPercentage: 5
+  targetCPUUtilizationPercentage: 50
